@@ -1,4 +1,6 @@
-![DALL·E 2024-06-20 14.33.05 - A clear and simple illustration of a robotic arm recognizing and picking up an object. The robotic arm has multiple joints and a gripper, and it is sh.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e0b6b698-ed0b-431c-9668-66c778529d85/d65baef9-e3f2-4eb1-8e23-437ec8602d02/DALLE_2024-06-20_14.33.05_-_A_clear_and_simple_illustration_of_a_robotic_arm_recognizing_and_picking_up_an_object._The_robotic_arm_has_multiple_joints_and_a_gripper_and_it_is_sh.png)
+
+![DALL·E 2024-06-20 14 33 05 - A clear and simple illustration of a robotic arm recognizing and picking up an object  The robotic arm has multiple joints and a gripper, and it is sh](https://github.com/lsj324/robotarm/assets/170494075/8725739d-446c-40c7-8f90-deb5c3879221)
+
 
 **목표**
 
